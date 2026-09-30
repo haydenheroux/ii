@@ -1,3 +1,5 @@
-ii
-*.a
 *.o
+*.orig
+*.rej
+ii
+config.h

@@ -7,6 +7,8 @@ PREFIX    = /usr/local
 MANPREFIX = $(PREFIX)/share/man
 DOCPREFIX = $(PREFIX)/share/doc
 
+CC = gcc
+
 SRC = ii.c
 OBJ = $(SRC:.c=.o)
 
